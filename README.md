@@ -1,4 +1,4 @@
-# 🧠 Real-Time AI Agent using OpenAI, SerpAPI & n8n
+# 🧠 Built a real-time, context-aware AI agent using n8n as the orchestration tool, integrating OpenAI for language understanding and SerpAPI for real-time web data access
 
 A cloud-hosted, context-aware AI agent that processes natural language prompts, fetches real-time search results, performs calculations, and retains memory — all orchestrated through **n8n's no-code workflow engine**.
 
