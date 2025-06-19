@@ -71,19 +71,6 @@ The agent will:
 
 ---
 
-## 📁 Project Structure
-
-```
-/ai-agent-n8n
-├── workflows
-│   └── main-agent-workflow.json
-├── assets
-│   └── screenshots/
-└── README.md
-```
-
----
-
 ## ⚙️ Getting Started
 
 1. Sign up at [n8n.cloud](https://n8n.io)
